@@ -57,9 +57,9 @@ Efficient Content Retrieval: Centralized indexing ensures fast and accurate file
 1. Run the Index Server: Start the server to enable peers to register and query for files.
 2. Start Peer Applications:
    
-  - Register files with the index server.
-  - Query the server for available files.
-  - Establish direct connections with other peers to exchange content.
+   - Register files with the index server.
+   - Query the server for available files.
+   - Establish direct connections with other peers to exchange content.
 
 3. File Exchange: Use the peer-to-peer communication module to download desired content.
 
